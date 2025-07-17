@@ -17,4 +17,4 @@
 ---
 
 ## 📈 GitHub Stats
-![Kenan's GitHub stats](https://github-readme-stats.vercel.app/api?username=keanantoprak21&show_icons=true&theme=radical)
+![Kenan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenantoprak21&show_icons=true&theme=radical)
